@@ -1,6 +1,6 @@
 ### 👋 Hi there! 
 
-I'm **`Joanna Sadkiewicz`** .
+My name is **`Joanna`** .
 I am a determined and self-taught programmer with a strong ambition to become a professional front-end developer. :dart:
 
 ---
