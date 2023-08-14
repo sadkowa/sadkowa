@@ -1,23 +1,23 @@
-#### 👋 Hi there! 
+### 👋 Hi there! 
 
 I'm **`Joanna Sadkiewicz`** .
 I am a determined and self-taught programmer with a strong ambition to become a professional front-end developer. :dart:
 
 ---
 
-##### 💡 THE MAIN GOAL
+#### 💡 THE MAIN GOAL
  Finding an internship or a job as a Junior Front-end Developer. 
 
 ---
 
-##### 🔥 PRESENT
+#### 🔥 PRESENT
 - :books: mentoring program with [Mateusz Bogolubow](https://devmentor.pl/)
 - :blossom: trying be best in `.js`
 - :seedling: learn step by step `react`
 
 ---
 
-##### 🔧 LANGUAGES AND TOOLS
+#### 🔧 LANGUAGES AND TOOLS
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,9 +34,10 @@ I am a determined and self-taught programmer with a strong ambition to become a 
 
 ---
 
-##### 🙋‍♂️ Feel free to contact me [Email](mailto:joanna.sadkiewicz1@gmail.com)
+#### 🙋‍♂️ Feel free to contact me 
+[LinkedIn](https://www.linkedin.com/in/joanna-sadkiewicz/)
 
 ---
 
-##### 👏 Special thanks
+#### 👏 Special thanks
 Thanks to my [Mentor - devmentor.pl](https://devmentor.pl/) – for providing me an individual support preparing to front-end developer job.
