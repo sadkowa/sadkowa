@@ -11,7 +11,7 @@ I am a determined and self-taught programmer with a strong ambition to become a 
 ---
 
 #### 🔥 PRESENT
-- :books: mentoring program with [Mateusz Bogolubow](https://devmentor.pl/)
+:books: mentoring program with [Mateusz Bogolubow](https://devmentor.pl/)
 
 ---
 
