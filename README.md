@@ -3,7 +3,7 @@
 My name is **`Joanna`** .
 I used to work in civil engineering industry, but now I'm changing my career to frontend development. 
 
-In Novemeber I finished mentoring program with [Mateusz Bogolubow](https://devmentor.pl/)
+In Novemeber I finished mentoring program with [Mateusz Bogolubow](https://devmentor.pl/).
 Thanks to it I've built a strong foundation in coding.
 I'm excited to learn more and create awesome websites for people to use. It's a big change, but I'm ready for this new adventure!
 
