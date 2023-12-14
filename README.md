@@ -3,18 +3,15 @@
 My name is **`Joanna`** .
 I used to work in civil engineering industry, but now I'm changing my career to frontend development. 
 
-Thanks to mentoring from an experienced programmer [Mateusz Bogolubow](https://devmentor.pl/), I've built a strong foundation in coding.
-I'm excited to learn more and create awesome websites for people to use. It's a big change, but I'm ready for this new adventure! :dart:
+In Novemeber I finished mentoring program with [Mateusz Bogolubow](https://devmentor.pl/)
+Thanks to it I've built a strong foundation in coding.
+I'm excited to learn more and create awesome websites for people to use. It's a big change, but I'm ready for this new adventure!
 
 ---
 
-#### 💡 THE MAIN GOAL
- Finding an internship or a job as a Junior Front-end Developer. 
-
----
-
-#### 🔥 PRESENT
-:books: mentoring program with [Mateusz Bogolubow](https://devmentor.pl/)
+#### 🔥 PROJECTS
+ -  [Kanban Board + React, Local Storage](https://sadkowa.github.io/KanbanTool/)
+   
 
 ---
 
