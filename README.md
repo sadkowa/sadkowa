@@ -10,7 +10,7 @@ I'm excited to learn more and create awesome websites for people to use. It's a 
 ---
 
 #### 🔥 PROJECTS
- -  [Kanban Board + React, Local Storage](https://github.com/sadkowa/KanbanTool.git)
+ -  [Kanban Board - React](https://github.com/sadkowa/KanbanTool.git)
    
 
 ---
