@@ -10,14 +10,15 @@ I'm excited to learn more and create awesome websites for people to use. It's a 
 ---
 
 #### 🔥 PROJECTS
- -  [Kanban Board - React](https://github.com/sadkowa/KanbanTool.git)
-   
+- [Currency Wallet - React. Redux, Rest API, localStorage](https://github.com/sadkowa/currency-wallet-new.git)
+- [Kanban Board - React, localStorage](https://github.com/sadkowa/KanbanTool.git)
 
 ---
 
 #### 🔧 LANGUAGES AND TOOLS
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REDUX](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
