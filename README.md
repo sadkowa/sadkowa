@@ -11,8 +11,8 @@ I'm excited to learn more and create awesome websites for people to use. It's a 
 
 #### 🔥 PROJECTS
 REACT
-- [Currency Wallet + Redux, Rest API, localStorage, styled-components](https://github.com/sadkowa/currency-wallet-new.git)
-- [Kanban Board + localStorage](https://github.com/sadkowa/KanbanTool.git)
+- [Currency Wallet](https://github.com/sadkowa/currency-wallet-new.git) + Redux, Rest API, localStorage, styled-components
+- [Kanban Board](https://github.com/sadkowa/KanbanTool.git) + localStorage
 
 JAVASCRIPT
 - [Ip-address-tracker-master](https://github.com/sadkowa/Ip-address-tracker-master.git)
