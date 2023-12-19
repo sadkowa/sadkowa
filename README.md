@@ -11,7 +11,7 @@ I'm excited to learn more and create awesome websites for people to use. It's a 
 
 #### 🔥 PROJECTS
 REACT
-- [Currency Wallet + Redux, Rest API, localStorage](https://github.com/sadkowa/currency-wallet-new.git)
+- [Currency Wallet + Redux, Rest API, localStorage, styled-components](https://github.com/sadkowa/currency-wallet-new.git)
 - [Kanban Board + localStorage](https://github.com/sadkowa/KanbanTool.git)
 
 JAVASCRIPT
