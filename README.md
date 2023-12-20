@@ -45,4 +45,4 @@ JAVASCRIPT
 ---
 
 #### 👏 Special thanks
-Thanks to my [Mentor - devmentor.pl](https://devmentor.pl/) – for providing me an individual support preparing to front-end developer job.
+Thanks to [Mentor - devmentor.pl](https://devmentor.pl/) – for providing me an individual support preparing to front-end developer job.
