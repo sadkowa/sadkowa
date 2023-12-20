@@ -15,7 +15,7 @@ REACT
 - [Kanban Board](https://github.com/sadkowa/KanbanTool.git) + localStorage
 
 JAVASCRIPT
-- [Ip address tracker](https://github.com/sadkowa/Ip-address-tracker-master.git) + API
+- [Ip address tracker](https://github.com/sadkowa/Ip-address-tracker-master.git) + Rest API
 
 ---
 
