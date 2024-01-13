@@ -12,18 +12,16 @@ You can check out some of my projects below.
 ---
 
 #### 🔥 PROJECTS
-REACT
 
-***[Currency Wallet](https://github.com/sadkowa/currency-wallet-new)***  
-    - **Technologies**: React, Redux, Rest API, Local Storage, Styled Components
-- [Kanban Board](https://github.com/sadkowa/KanbanTool)
-    - Technologies: React, Local Storage, Context API
-- [Course Form](https://github.com/sadkowa/course-form)
-    - Technologies: React, Redux, Styled Components
+- ***[Currency Wallet](https://github.com/sadkowa/currency-wallet-new)***  
+        **Technologies**: React, Redux, Rest API, Local Storage, Styled Components
+- ***[Kanban Board](https://github.com/sadkowa/KanbanTool)***
+        **Technologies**: React, Local Storage, Context API
+- ***[Course Form](https://github.com/sadkowa/course-form)***
+        **Technologies**: React, Redux, Styled Components
 
-JAVASCRIPT
-- [Ip Address Tracker](https://github.com/sadkowa/Ip-address-tracker-master.git) + Rest API
-
+- ***[Ip Address Tracker](https://github.com/sadkowa/Ip-address-tracker-master.git)***
+    **Technologies**: JavaScript, Rest API
 ---
 
 #### 🔧 LANGUAGES AND TOOLS
