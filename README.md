@@ -15,11 +15,9 @@ You can check out some of my projects below.
 REACT
 - [Currency Wallet](https://github.com/sadkowa/currency-wallet-new)
   Technologies: React, Redux, Rest API, Local Storage, Styled Components
-
 - [Kanban Board](https://github.com/sadkowa/KanbanTool)
   Technologies: React, Local Storage, Context API
-
-  - [Course Form](https://github.com/sadkowa/course-form) 
+- [Course Form](https://github.com/sadkowa/course-form) 
   Technologies: React, Redux, Styled Components
 
 JAVASCRIPT
