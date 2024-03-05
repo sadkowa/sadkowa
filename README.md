@@ -13,7 +13,7 @@ You can check out some of my projects below.
 
 #### 🔥 PROJECTS
 
-- ***[Prismic Blog]((https://github.com/sadkowa/travel-blog))***  
+- ***[Prismic Blog](https://github.com/sadkowa/travel-blog)***  
         **Technologies**: React, React Router, Styled Components
 - ***[Currency Wallet](https://github.com/sadkowa/currency-wallet-new)***  
         **Technologies**: React, Redux, Rest API, Local Storage, Styled Components
