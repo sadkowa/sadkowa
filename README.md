@@ -17,8 +17,8 @@ You can check out some of my projects below.
         **Technologies**: React, React Router, Styled Components
 - ***[Currency Wallet](https://github.com/sadkowa/currency-wallet-new)***  
         **Technologies**: React, Redux, Rest API, Local Storage, Styled Components
-- ***[Kanban Board](https://github.com/sadkowa/KanbanTool)***   
-        **Technologies**: React, Local Storage, Context API, React Testing Library
+- ***[Kanban Board](https://github.com/sadkowa/kanban-tool-ts)***   
+        **Technologies**: React, TypeScript, Local Storage, Context API, React Testing Library
 - ***[Course Form](https://github.com/sadkowa/course-form)***   
         **Technologies**: React, Redux, Styled Components
 
@@ -28,6 +28,7 @@ You can check out some of my projects below.
 
 #### 🔧 LANGUAGES AND TOOLS
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![REDUX](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux)
 ![React Router](https://img.shields.io/badge/React_Router-%23F7F7F7?style=for-the-badge&logo=reactrouter&logoColor=%23CA4245)
